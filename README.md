@@ -1,4 +1,4 @@
-# Salom, men Asror Abdunazarov 👋
+# Salom, men Asrorbek Abdunazarov 👋
 
 Frontend dasturchiman. React, TypeScript, Redux Toolkit, SCSS va Tailwind CSS yordamida zamonaviy, toza va moslashuvchan veb-ilovalarni yarataman.
 
